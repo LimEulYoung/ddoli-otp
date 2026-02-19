@@ -293,7 +293,7 @@ def show_register_dialog(icon):
         root.title("Register OTP")
         root.resizable(False, False)
         root.attributes("-topmost", True)
-        w, h = 380, 200
+        w, h = 380, 240
         root.geometry(f"{w}x{h}+{(root.winfo_screenwidth()-w)//2}+{(root.winfo_screenheight()-h)//2}")
 
         frame = tk.Frame(root, padx=20, pady=20)
