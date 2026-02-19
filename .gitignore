@@ -5,3 +5,4 @@ __pycache__/
 *.spec
 *.pyc
 app_icon.png
+CLAUDE.md
