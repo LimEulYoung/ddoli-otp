@@ -12,9 +12,6 @@ A lightweight Windows system tray TOTP (Time-based One-Time Password) manager.
 - **QR Code Scanning** — Register OTP by dragging a screen region over a QR code
 - **Manual Entry** — Add OTP via Secret Key (Base32) input
 - **Manage OTP** — Rename or delete entries
-
-![Manage Dialog](screenshots/manage_dialog.png)
-
 - **Run at Startup** — Optional Windows auto-start via registry
 
 ## Download
