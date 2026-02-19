@@ -3,3 +3,4 @@ pillow
 pyotp
 pyperclip
 opencv-python
+numpy
